@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📚Study📚
 <br>
-<img src="https://img.shields.io/badge/Python-3964E5?style=flat-square&logo=Python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Python-BFDAFF?style=flat-square&logo=Python&logoColor=blue"/>
 </br>
 
 
