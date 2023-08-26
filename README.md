@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/Python-3964E5?style=flat-square&logo=Python&logoColor=blue"/>
 </br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcr0u0&hide_progress=true)
