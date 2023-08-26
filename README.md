@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </br>
 
 📚Study📚
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/Python-BFDAFF?style=flat-square&logo=Python&logoColor=blue"/>
 </br>
 
